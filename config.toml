@@ -1,0 +1,33 @@
+baseURL = 'http://example.org/'
+languageCode = ''
+title = 'Faizal Kusmawan Personal Web'
+theme = 'PaperMod'
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/about/'
+  weight = -110
+  [menu.main.params]
+    class = 'highlight-menu-item'
+
+[params.homeInfoParams]
+Title = "Hi there wave"
+Content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod ligula ultrices nulla auctor, uthicula euismod libero. Morbi eleifend sapien eget massa pulvinar iaculis.."
+
+[[params.socialIcons]]
+name = "buymeacoffee"
+url = "<link>"
+
+[[params.socialIcons]]
+name = "deezer"
+url = "<link2>"
+
+
+
+    
