@@ -2,6 +2,7 @@ baseURL = 'https://faizalindrak.github.io/'
 languageCode = ''
 title = 'Faizal Kusmawan'
 theme = 'papermodified'
+defaultTheme = 'light'
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
@@ -41,7 +42,5 @@ url = "https://linkedin.com/in/faizalindrak/"
 [[params.socialIcons]]
 name = "medium"
 url = "https://medium.com/@faizalindrak"
-
-
 
     
