@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://faizalindrak.github.io/'
 languageCode = ''
 title = 'Faizal Kusmawan'
 theme = 'PaperMod'
@@ -10,8 +10,14 @@ home = [ "HTML", "RSS", "JSON" ]
 [[menu.main]]
   identifier = 'about'
   name = 'About'
-  pre = "<i class='fa fa-heart'></i>"
   url = '/about/'
+  weight = -110
+  [menu.main.params]
+    class = 'highlight-menu-item'
+[[menu.main]]
+  identifier = 'Arvives'
+  name = 'Archives'
+  url = '/archives/'
   weight = -110
   [menu.main.params]
     class = 'highlight-menu-item'
@@ -21,12 +27,20 @@ Title = "Hi there"
 Content = "I’m Faizal, a data enthusiast who loves to share my knowledge and experience with you. In this blog, you’ll find useful tips and tricks on how to use Excel, Google Sheets and other tools for data analysis"
 
 [[params.socialIcons]]
-name = "buymeacoffee"
-url = "<link>"
+name = "github"
+url = "https://github.com/faizalindrak/"
 
 [[params.socialIcons]]
-name = "deezer"
-url = "<link2>"
+name = "instagram"
+url = "https://instagram.com/faizalindrak"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/faizalindrak/"
+
+[[params.socialIcons]]
+name = "medium"
+url = "https://medium.com/@faizalindrak"
 
 
 
