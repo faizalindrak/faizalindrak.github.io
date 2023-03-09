@@ -1,7 +1,7 @@
 baseURL = 'https://faizalindrak.github.io/'
 languageCode = ''
 title = 'Faizal Kusmawan'
-theme = 'PaperMod'
+theme = 'papermodified'
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
