@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = ''
-title = 'Faizal Blog'
+title = 'Faizal Kusmawan'
 theme = 'PaperMod'
 
 [outputs]
