@@ -2,6 +2,7 @@
 title: "My First Post"
 date: 2023-02-01T20:34:34+07:00
 draft: false
+ShowBreadCrumbs: true
 ---
 # Welcome to StackEdit!
 
