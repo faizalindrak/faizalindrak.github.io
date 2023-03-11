@@ -3,9 +3,9 @@ languageCode = 'id_ID'
 title = 'Faizal Kusmawan'
 theme = 'PaperMod'
 defaultTheme = 'light'
-author = 'Faizal Kusmawan' 
-description = 'A blog site share tutorial how to and tips about Excel and Google Sheet' 
-ShowBreadCrumbs = true
+
+[params]
+Description = "The personal website and blog about Excel and Google Sheets"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
