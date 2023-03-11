@@ -1,7 +1,7 @@
 baseURL = 'https://faizalindrak.github.io/'
 languageCode = 'id_ID'
 title = 'Faizal Kusmawan'
-theme = 'PaperMod'
+theme = 'papermodified'
 defaultTheme = 'light'
 
 [params]
