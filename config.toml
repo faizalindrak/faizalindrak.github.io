@@ -1,7 +1,7 @@
 baseURL = 'https://faizalindrak.github.io/'
 languageCode = 'id_ID'
 title = 'Faizal Kusmawan'
-theme = 'papermodified'
+theme = 'PaperMod'
 defaultTheme = 'light'
 author = 'Faizal Kusmawan' 
 description = 'A blog site share tutorial how to and tips about Excel and Google Sheet' 
