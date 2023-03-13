@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2023-02-01T20:34:34+07:00
-draft: false
+draft: true
 ShowBreadCrumbs: true
 ---
 # Welcome to StackEdit!
@@ -146,4 +146,11 @@ A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
+```
+
+```
+function jsfunc(){
+	console.log("Hello World!");
+}
+
 ```
