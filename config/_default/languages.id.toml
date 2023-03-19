@@ -1,0 +1,14 @@
+# config/_default/languages.id.toml
+
+title = "Faizal Kusmawan Website"
+
+[author]
+name = "Faizal Kusmawan"
+#image = "img/author.jpg"
+headline = "A generally awesome human"
+bio = "A little bit about me"
+links = [
+  { twitter = "https://twitter.com/@faizalindrak" }
+]
+languageName = "Indonesian"
+displayName = "ID"

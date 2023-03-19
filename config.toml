@@ -1,60 +1,13 @@
-baseURL = 'https://faizalindrak.github.io/'
-languageCode = 'id_ID'
+baseURL = 'https://fik.my.id'
+languageCode = 'id'
 title = 'Faizal Kusmawan'
-theme = 'papermodified'
+theme = 'congo'
 
 [params]
 Description = "The personal website and blog about Excel and Google Sheets"
-defaultTheme = 'light'
-disableThemeToggle = false
-ShowShareButtons = true
-ShareButtons = ["whatsapp","twitter", "facebook", "linkedin", "telegram"]
-DateFormat	= "2 January 2006"
-ShowReadingTime = true
 
 [assets]
 favicon = "/favicon.ico"
 favicon16x16 = "/favicon-16x16.png"
 favicon32x32 = "/favicon-32x32.png"
 appleTouchIcon = "/apple-touch-icon.png"
-
-[outputs]
-home = [ "HTML", "RSS", "JSON" ]
-
-[menu]
-[[menu.main]]
-  identifier = 'about'
-  name = 'About'
-  url = '/about/'
-  weight = -110
-  [menu.main.params]
-    class = 'highlight-menu-item'
-[[menu.main]]
-  identifier = 'Arvives'
-  name = 'Archives'
-  url = '/archives/'
-  weight = -110
-  [menu.main.params]
-    class = 'highlight-menu-item'
-
-[params.homeInfoParams]
-Title = "Hi there"
-Content = "I’m Faizal, a data enthusiast who loves to share my knowledge and experience with you. In this blog, you’ll find useful tips and tricks on how to use Excel, Google Sheets and other tools for data analysis"
-
-[[params.socialIcons]]
-name = "github"
-url = "https://github.com/faizalindrak/"
-
-[[params.socialIcons]]
-name = "instagram"
-url = "https://instagram.com/faizalindrak"
-
-[[params.socialIcons]]
-name = "linkedin"
-url = "https://linkedin.com/in/faizalindrak/"
-
-[[params.socialIcons]]
-name = "medium"
-url = "https://medium.com/@faizalindrak"
-
-    

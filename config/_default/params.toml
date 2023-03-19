@@ -1,0 +1,12 @@
+defaultAppearance = "light"
+autoSwitchAppearance = false
+header.layout = "hybrid"
+homepage.layout = "profile"
+homepage.showRecent = true
+colorScheme = "avocado"
+footer.showThemeAttribution = false
+footer.showAppearanceSwitcher = true
+article.showTableOfContents = true
+article.sharingLinks = ["twitter", "facebook", "linkedin", "email"]
+list.showBreadcrumbs = true
+#list.showTableOfContents = true

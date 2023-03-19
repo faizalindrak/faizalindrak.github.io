@@ -1,0 +1,7 @@
+# config/_default/config.toml
+
+baseURL = "https://fik.my.id/"
+languageCode = "id"
+defaultContentLanguage = "id"
+
+
