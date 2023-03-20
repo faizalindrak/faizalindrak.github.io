@@ -1,14 +1,16 @@
 # config/_default/languages.id.toml
 
-title = "Faizal Kusmawan Website"
+title = "Faizal Kusmawan"
 
 [author]
 name = "Faizal Kusmawan"
-#image = "img/author.jpg"
-headline = "A generally awesome human"
-bio = "A little bit about me"
+image = "img/48395791_2222609334458609_6689460126715215872_n.jpg"
+headline = "Purchasing Staff | Data Analyst"
+bio = "A professional who likes to get things done quickly with technology."
 links = [
-  { twitter = "https://twitter.com/@faizalindrak" }
+  { email = "mailto:faizal@kusmawan.com"},
+  { linkedin = "https://www.linkedin.com/in/faizalindrak/"},
+  { github = "https://github.com/faizalindrak"}
 ]
 languageName = "Indonesian"
 displayName = "ID"

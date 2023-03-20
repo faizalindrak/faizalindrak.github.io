@@ -10,3 +10,4 @@ article.showTableOfContents = true
 article.sharingLinks = ["twitter", "facebook", "linkedin", "email"]
 list.showBreadcrumbs = true
 #list.showTableOfContents = true
+enableSearch = true

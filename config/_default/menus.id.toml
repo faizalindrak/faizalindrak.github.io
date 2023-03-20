@@ -1,14 +1,14 @@
 # config/_default/menus.id.toml
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
-  weight = 10
+  name = "about"
+  pageRef = "about"
+  weight = 20
 
 [[main]]
-  name = "Topics"
-  pageRef = "topics"
-  weight = 20
+  name = "blog"
+  pageRef = "posts"
+  weight = 10
 
 [[main]]
   name = "GitHub"

@@ -3,5 +3,5 @@
 baseURL = "https://fik.my.id/"
 languageCode = "id"
 defaultContentLanguage = "id"
-
+outputs.home = ["HTML", "RSS", "JSON"]
 
