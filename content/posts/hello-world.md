@@ -1,11 +1,17 @@
 ---
 title: "Hello World!"
-date: 2023-03-13T22:43:27+07:00
+date: 2025-03-13T22:43:27+07:00
 draft: false
 ---
 
-## Perkenalan
+## Introduction
 
-Situs web ini merupakan situs web pribadi saya, dimana saya menuliskan tentang proyek yang saya kerjakan, pemikiran saya, dan mungkin tentang kehidupan saya pribadi. Latar belakang saya adalah seorang karyawan swasta perusahaan manufaktur otomotif sebagai staf *Purchasing* dan *Warehouse*. Pekerjaan saya sebagian besar terkait administrasi, yang banyak berkaitan dengan *spreadsheet*. Dari sinilah saya tertarik untuk mempelajari lebih dalam mengenai Microsoft Excel dan Google Sheet, dengan tujuan untuk mempercepat proses administrasi yang saya kerjakan. Di situs ini mungkin sebagian besar saya akan menuliskan tutorial mengenai *spreadsheet*, selain untuk dibagikan untuk publik, saya juga akan menggunakan situs ini sebagai catatan pribadi saya.
+Welcome to my blog! This is where I write about the projects I’m hacking on, the things I’m thinking about, and a little bit of life in between.
 
-Terimakasih atas perhatiannya.
+**Who am I?** By day, I work in the automotive manufacturing sector as an MRP Controller. If you know anything about Material Requirements Planning, you know it involves massive amounts of data, scheduling, and administration.
+
+**Why Spreadsheets?** To keep up with the demands of material planning, I fell down the rabbit hole of Microsoft Excel and Google Sheets. I wanted to find ways to work smarter, not harder. Now, I’m obsessed with using spreadsheets to speed up my daily tasks.
+
+**What’s on the Blog**? Mostly, this site serves as my personal notebook, but I’ve decided to open it up to the public. I’ll be posting tutorials and tricks to help you master spreadsheets just like I did.
+
+Thanks for stopping by!
